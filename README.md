@@ -2,7 +2,7 @@
 Easily build cross-platform UI
 
 # Installation
-Currently, Harmony is only available on the Roblox marketplace. You can get it for free here: https://create.roblox.com/store/asset/111959898760000/Harmony
+Currently, Harmony is only available on the Roblox marketplace. You can get it for free here: [https://create.roblox.com/store/asset/111959898760000/Harmony](https://create.roblox.com/store/asset/140077732580841/Harmony)
 
 # Documentation
 [Check it](./docs/README.md)
