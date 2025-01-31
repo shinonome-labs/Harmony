@@ -39,7 +39,7 @@ In this example, we use `Harmony.crossplatform` to bind a ImageLabel and TextLab
     
 ```
 
-![inputmap-intro](https://github.com/shinonome-labs/Harmony/raw/refs/heads/main/assets/quickstart-example-inputmap-intro.webm)
+![inputmap-intro](https://github.com/shinonome-labs/Harmony/raw/refs/heads/main/assets/quickstart-example-inputmap-intro.mov)
 
 Awesome! Harmony correctly changes our TextLabel and ImageLabel to what the InputMap specfies, and logs "Activated!" to the console when we press E.
 
@@ -87,7 +87,7 @@ Harmony.actions:wrap(inputMap)
 ```
 
 Now when we play our game, touchscreens and controllers update our UI accordingly and the inputs we defined in the InputMap work!
-![inputmap-crossplatform](https://github.com/shinonome-labs/Harmony/raw/refs/heads/main/assets/quickstart-example-inputmap-crossplatform.webm)
+![inputmap-crossplatform](https://github.com/shinonome-labs/Harmony/raw/refs/heads/main/assets/quickstart-example-inputmap-crossplatform.mov)
 
 `Action.Type` can be changed to any of the following to suit your needs:
 - `"PressOnce"`: Fires once when the input is triggered
